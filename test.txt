@@ -1,6 +1,10 @@
 проба 1
 
+<<<<<<< HEAD
 prepisal stroku
 
 dobavil stroku
  4444 5555
+=======
+добавили запись
+>>>>>>> parent of 9db95a6... prepisal stroku & dobavil stroku
